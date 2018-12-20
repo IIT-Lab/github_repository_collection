@@ -1,18 +1,24 @@
+
+
+2018-12-20更新：
+
+* [Deep-Learning-Power-Allocation-in-Massive-MIMO](https://github.com/lucasanguinetti/Deep-Learning-Power-Allocation-in-Massive-MIMO): 论文   [Deep-Learning-Power-Allocation-in-Massive-MIMO](https://arxiv.org/pdf/1812.06905v1.pdf)的开源代码。This is the code package related to the follow scientific article: Luca Sanguinetti, Alessio Zappone, Merouane Debbah 'Deep-Learning-Power-Allocation-in-Massive-MIMO' presented at the Asilomar Conference on Signals, Systems, and Computers, 2018. 
+* [deep-EE-opt](https://github.com/bmatthiesen/deep-EE-opt):论文  [Deep Learning for Optimal Energy-Efficient Power Control in Wireless Interference Networks](https://arxiv.org/pdf/1812.06920v1.pdf)的开源代码。Source code for "Deep Learning for Optimal Energy-Efficient Power Control in Wireless Interference Networks" by Bho Matthiesen, Alessio Zappone, Eduard A. Jorswieck, and Merouane Debbah, submitted to IEEE Journal on Selected Areas in Communication. 
+
+
+
+------
+
+
+
 - [hongzimao](https://github.com/hongzimao)/[deeprm](https://github.com/hongzimao/deeprm)：Resource Management with Deep Reinforcement Learning (HotNets '16) 虽然不是无线网络的资源分配，但是隐约感觉应该是一个
-
 - [mantecon](https://github.com/mantecon)/[Self-organised-Admission-Control-for-Multi-tenant-5G-Networks](https://github.com/mantecon/Self-organised-Admission-Control-for-Multi-tenant-5G-Networks)：In this work, a self-organizing admission control algorithm for multi-tenant 5G networks is proposed and developed with novel artificial intelligence techniques. A simulation-based analysis is presented to assess the improvements of the proposed approach with respect to a baseline scheme.
-
 - [mylzwq / LoadBalanceControl-RL](https://github.com/mylzwq/LoadBalanceControl-RL): Using Reinforcement Learning method to realize load balancing control in dynamic cellular network。  使用强化学习方法实现动态蜂窝网络的负载均衡。整体感觉下来，代码过于冗长，编写的框架混乱，可读性很差，本来想看一下动态环境怎么编写的，但是并没有找到 .... 
-
 - [M.E-Energy-Efficient-Power-and-Subcarrier-Allocation-for-OFDMA-Systems-with-Value-Function-Approxima](https://github.com/bi-kai/M.E-Energy-Efficient-Power-and-Subcarrier-Allocation-for-OFDMA-Systems-with-Value-Function-Approxima):同样开始以为会有帮助，但是大概看完之后，还是没有找到有帮助的代码块。唯一可能有用的就是其中[queue_change.m](https://github.com/bi-kai/M.E-Energy-Efficient-Power-and-Subcarrier-Allocation-for-OFDMA-Systems-with-Value-Function-Approxima/blob/master/matlab_src/queue_change.m)这个函数有点用，功能是功率、子载波分配后，更新用户队列长度。这样或许可以增加一些动态性进去。
-
 - [fath0218 /](https://zhuanlan.zhihu.com/p/52122191/h%3C/u%3Et%3Cu%3Etps://github.com/fath0218/channel_dqn) channel_dqn：基于DQN的信道切换算法，虽然是中文注释，但是感觉代码结构还是很乱....
-
 - [shkrwnd](https://github.com/shkrwnd)/[Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access](https://github.com/shkrwnd/Deep-Reinforcement-Learning-for-Dynamic-Spectrum-Access)：Using multi-agent Deep Q Learning with LSTM cells (DRQN) to train multiple users in cognitive radio to learn to share scarce resource (channels) equally without communication。动态，多智能体，本来和我想解决的问题很切合，但是为什么就是看不到可以复用的代码呢？也没有看出这也多智能体的reward的更新的不同！！！
 - [bjoluc](https://github.com/bjoluc)/[gymwipe](https://github.com/bjoluc/gymwipe)：An OpenAI Gym Environment for Frequency Band Assignments in the Simulation of Wireless Networked Feedback Control Loops.基于OpenAI Gym环境的无线网络环境，用于频带分配。
-
 - ["https://github.com/mkoz71/Energy-Efficiency-in-Reinforcement-Learning">mkoz71 / Energy-Efficiency-in-Reinforcement-Learning](https://zhuanlan.zhihu.com/p/52122191/%3C/u)：Code for the paper 'Energy Efficiency in Reinforcement Learning for Wireless Sensor Networks' 和超密集网络没有太大关系，场景模型应该是sensor networks for health monitoring。
-
 - [farismismar / Q-Learning-Power-Control](https://zhuanlan.zhihu.com/p/52122191/http%3C/u%3Es%3Cu%3E://github.com/farismismar%3C/u%3E/Q-Learning-Power-Control)：Code for my publication: Q-Learning Algorithm for VoLTE Closed-Loop Power Control in Indoor Small Cells. Paper accepted to 52nd Asilomar Conference on Signals, Systems, and Computers.感觉用处不大orz（找到的代码都是些什么鬼啊...）
 - [Traffic-Optimisation](https://github.com/Wert1996/Traffic-Optimisation)：Traffic Signal timings using Deep Q-Learning
 
